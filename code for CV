@@ -1,7 +1,3 @@
-%-------------------------
-% Author : Mehrdad Shahraeen
-%------------------------
-
 \documentclass[letterpaper,10.8pt]{article}
 \usepackage[document]{ragged2e}
 \usepackage{latexsym}
